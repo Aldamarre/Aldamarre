@@ -39,7 +39,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/aldamarre-jean-4306261ab">
+  <a href="www.linkedin.com/in/aldamarre-jean-4306261ab" target="block">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
