@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up? I'm Aldamarre</h1>
 
 ###
 
-<h3 align="left">My name is Aldamarre and I'm a CIS major from CT</h3>
+<h3 align="left">I'm a CIS major from CT</h3>
 
 ###
 
