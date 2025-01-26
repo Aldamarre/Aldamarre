@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning C++<br>🎯 Goals: To master my skills to land a job<br>🎲 Fun fact: I am huge into reading fantasy and myth.<br><br>Looking forward to work with you! :)</h4>
+<h4 align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning C++<br>🎯 Goals: To master my skills to land a job<br>🎲 Fun fact: I am huge into reading fantasy and myth.<br><br>Looking forward to working with you! :)</h4>
 
 ###
 
