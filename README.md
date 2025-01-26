@@ -2,15 +2,13 @@
 
 ###
 
-<h2 align="left">My name is Aldamarre and I'm a CIS major from CT</h2>
+<h3 align="left">My name is Aldamarre and I'm a CIS major from CT</h3>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-
-<br clear="both">
 
 <h4 align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning C++<br>🎯 Goals: To master my skills to land a job<br>🎲 Fun fact: I am huge into reading fantasy and myth.<br><br>Looking forward to work with you! :)</h4>
 
@@ -33,9 +31,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Aldamarre/Aldamarre/output/snake.svg" alt="Snake animation" />
 
 ###
